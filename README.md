@@ -39,4 +39,4 @@ The application is operated with a Command Line Interface software.  Using the c
 Please contact me for any inquiries!  
 | Reach Out | Repositories | Profile |  
 | :------: | :------: |  :------: |  
-| <ricefamily1003@gmail.com> | [GitHub](https://github.com/jeremyrice98?tab=r
+| <ricefamily1003@gmail.com> | [GitHub](https://github.com/jeremyrice98?tab=repositories) |  [LinkedIn](https://www.linkedin.com/in/jeremy-rice-99055113/) |   
