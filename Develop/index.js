@@ -166,7 +166,7 @@ inquirer.prompt([
     return generateMarkdown(answers);
 })
 .then(pageMD => {
-    fs.writeFile('./dist/README.md/', pageMD, err => {
+    fs.writeFile('../dist/README.md', pageMD, err => {
         if (err) {
             console.log(err);
             return;
