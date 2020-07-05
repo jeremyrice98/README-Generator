@@ -17,20 +17,20 @@
 * [QUESTIONS](#QUESTIONS)  
   
 ## **APPLICATION LINKS**   
-> [Live Application](https://jeremyrice98.github.io/readme-generator)  
-> [GitHub Repository](https://github.com/jeremyrice98?tab=repositories)  
+> [Live Application](https://jeremyrice98.github.io/readme-generator/)  
+> [GitHub Repository](https://jeremyrice98.github.io/readme-generator/)  
   
 ## **INSTALLATION**   
-1. Download my code from my GitHub repository to a local repository.   2. Install files from Node.js and NPM packages.  3.  Ensure you have Git Bash or Terminal 
+1. Download my code from my GitHub repository to a local repository.   2. Install files from Node.js and NPM packages.  3.  Ensure you have Git Bash or Terminal  
   
 ## **USAGE**  
-The application is operated with a Command Line Interface software.  Using the command line, navigate to your local repository containing the file index.js.  Then, call it by typing 'node index.js' 
+The application is operated with a Command Line Interface software.  Using the command line, navigate to your local repository containing the file index.js.  Then, call it by typing 'node index.js'  
   
 ## **LICENSE**  
 > This application is covered under the MIT license.
   
 ## **CONTRIBUTING**  
-> No additonal contributors at this time.  
+> None   
   
 ## **TESTS**  
 > None   
