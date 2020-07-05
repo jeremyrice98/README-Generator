@@ -21,10 +21,10 @@
 > [GitHub Repository](https://github.com/jeremyrice98?tab=repositories)  
   
 ## **INSTALLATION**   
-1. Download my code from my GitHub repository to a local repository.   2. Install files from N  
+1. Download my code from my GitHub repository to a local repository.   2. Install files from Node.js and NPM packages.  3.  Ensure you have Git Bash or Terminal 
   
 ## **USAGE**  
-The application is operated with a Command Line Interface software.  Using the command line, navigate  
+The application is operated with a Command Line Interface software.  Using the command line, navigate to your local repository containing the file index.js.  Then, call it by typing 'node index.js' 
   
 ## **LICENSE**  
 > This application is covered under the MIT license.
