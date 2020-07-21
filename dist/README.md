@@ -1,9 +1,9 @@
 
-# <div align="center">**README Generator**</div>   
+# <div align="center">**Note Taker**</div>   
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)  
   
 ## **DESCRIPTION**   
-> Creating a README with ease using a Markdown syntax.  The application is started with the command-line and allows the user to input using the Inquirer. The information that the user input then generates the Readme.  
+>  This application will use an Express.js back end and will save and retrieve note data from a JSON file.  
   
 ## **TABLE OF CONTENTS**  
 * [DESCRIPTION](#DESCRIPTION)  
@@ -17,26 +17,26 @@
 * [QUESTIONS](#QUESTIONS)  
   
 ## **APPLICATION LINKS**   
-> [Live Application](https://jeremyrice98.github.io/readme-generator/)  
-> [GitHub Repository](https://jeremyrice98.github.io/readme-generator/)  
+> [Live Application](http://desolate-ravine-23905.herokuapp.com/)  
+> [GitHub Repository](https://github.com/jeremyrice98/note-taker)  
   
 ## **INSTALLATION**   
-1. Download my code from my GitHub repository to a local repository.   2. Install files from Node.js and NPM packages.  3.  Ensure you have Git Bash or Terminal  
+No installations needed.  
   
 ## **USAGE**  
-The application is operated with a Command Line Interface software.  Using the command line, navigate to your local repository containing the file index.js.  Then, call it by typing 'node index.js'  
+This has been deployed with Heroku.   Navigate to the application and begin using the application.  
   
 ## **LICENSE**  
 > This application is covered under the MIT license.
   
 ## **CONTRIBUTING**  
-> None   
+> 1. Node.js  
   
 ## **TESTS**  
-> None   
+> While developing, Insomnia was used to test routes.   
   
 ## **QUESTIONS**  
 Please contact me for any inquiries!  
 | Reach Out | Repositories | Profile |  
 | :------: | :------: |  :------: |  
-| <ricefamily1003@gmail.com> | [GitHub](https://github.com/jeremyrice98?tab=repositories) |  [LinkedIn](https://www.linkedin.com/in/jeremy-rice-99055113/) |   
+| <ricefamily1003@gmail.com> | [GitHub](https://github.com/jeremyrice98/note-taker) |  [LinkedIn](https://www.linkedin.com/in/jeremy-rice-99055113/) |   
