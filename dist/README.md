@@ -1,9 +1,9 @@
 
-# <div align="center">**Note Taker**</div>   
+# <div align="center">**Book Forum**</div>   
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)  
   
 ## **DESCRIPTION**   
->  This application will use an Express.js back end and will save and retrieve note data from a JSON file.  
+> A place to discuss books of different genres.     
   
 ## **TABLE OF CONTENTS**  
 * [DESCRIPTION](#DESCRIPTION)  
@@ -17,26 +17,26 @@
 * [QUESTIONS](#QUESTIONS)  
   
 ## **APPLICATION LINKS**   
-> [Live Application](http://desolate-ravine-23905.herokuapp.com/)  
-> [GitHub Repository](https://github.com/jeremyrice98/note-taker)  
+> [Live Application](www.placeholder.com)  
+> [GitHub Repository](https://github.com/jeremyrice98/book-forum)  
   
 ## **INSTALLATION**   
-No installations needed.  
+No need to install, just go to the weblink provided.  
   
 ## **USAGE**  
-This has been deployed with Heroku.   Navigate to the application and begin using the application.  
+none  
   
 ## **LICENSE**  
 > This application is covered under the MIT license.
   
 ## **CONTRIBUTING**  
-> 1. Node.js  
+> Zachary , Flora, Jeremy, Graham, Chris H  
   
 ## **TESTS**  
-> While developing, Insomnia was used to test routes.   
+> no tests   
   
 ## **QUESTIONS**  
 Please contact me for any inquiries!  
 | Reach Out | Repositories | Profile |  
 | :------: | :------: |  :------: |  
-| <ricefamily1003@gmail.com> | [GitHub](https://github.com/jeremyrice98/note-taker) |  [LinkedIn](https://www.linkedin.com/in/jeremy-rice-99055113/) |   
+| <ricefamily1003@gmail.com> | [GitHub](https://github.com/jeremyrice98?tab=repositories) |  [LinkedIn](https://www.linkedin.com/in/jeremy-rice-99055113/) |   
